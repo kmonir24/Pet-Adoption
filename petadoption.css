@@ -1,1 +1,7 @@
-
+body {
+  backgound-image: url("http://otcc.us/wp-content/uploads/2018/02/dog-print-background-black-and-white-dog-paw-prints-tile-pattern-repeat-background-download.jpg");
+}
+p {
+  color: blue;
+}
+    
