@@ -1,0 +1,57 @@
+body {
+	background-color: lightpink;
+}
+
+h1 {
+	color: black;
+	font-family: "Merienda", cursive;
+	font-size: 100pt;
+	text-align: center;
+}
+
+nav.navbar  {
+	background-color: white;
+}
+div.box1 {
+	border: 5px dashed blue;
+	display: block;
+	float: left;
+	margin: 25px;
+	margin-left: 200px;
+	height: 350px;
+	width: 500px;
+	background-color: lightblue;
+}
+.box2 {
+	border: 5px dashed blue;
+	display: block;
+	float: right;
+	margin: 25px;
+	margin-right: 200px;
+	height: 350px;
+	width: 500px;
+	background-color: lightblue;
+}
+p {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	margin: 20px
+}
+img {
+	border: 2px solid green;
+	margin: auto;
+	margin-top: 45px;
+	margin-bottom: 10px;
+	height: 60%;
+	width: 60%;
+	align-self: center;
+	height: 220px;
+	width: 275px;
+	display: block;
+}
+
+button {
+		color: red;
+		display: block;
+		padding: 16px;
+		margin: auto;
+}
